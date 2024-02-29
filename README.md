@@ -40,7 +40,3 @@ Before submitting a pull request, please open an issue to discuss your proposed 
 # License
 MIT
 
-# Additional Information
-You can include screenshots or GIFs of the website in the README for a more visual representation.
-Provide links to resources you used or inspiration for the project.
-Feel free to customize the README with your own branding and tone.
