@@ -13,12 +13,9 @@ CSS for styling and layout
 JavaScript for interactivity and animations
 Google Fonts API for custom fonts
 W3 School styles for inspiration and code snippets
-# Installation
-Clone the repository to your local machine.
-Open the index.html file in your web browser.
-Running Locally
-Open the project folder in a code editor.
-Start a local server using tools like Live Server or Visual Studio Code's integrated server.
+
+# To View The Website
+
 Access the website in your browser through the provided URL.
 
 url--[https://beveragedrinks.000webhostapp.com/]
